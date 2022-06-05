@@ -1,0 +1,8 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.editor.untitled.hint": "hidden",
+    "files.eol": "\n",
+    "editor.renderWhitespace": "boundary",
+    "editor.mouseWheelZoom": true,
+    "diffEditor.ignoreTrimWhitespace": false
+}
